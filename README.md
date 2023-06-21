@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi,fexas here！👋
 
-<!--
-**fexas/fexas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fexas.vercel.app/api?username=fexas&theme=dark&show_icons=true">
+    <img align="right" width="50%" src="https://github-readme-stats-fexas.vercel.app/api?username=fexas&show_icons=true">
+</picture>
 
-Here are some ideas to get you started:
+I'm Rui Li, an undergraduate student at RUC
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚒️: C++ / Python / R / Stata / Qt / latex
+- 📫: lirui19@ruc.edu.cn/liruifx@163.com
+- 🌱: Maths / Microeconomic Theory / CS
+  
